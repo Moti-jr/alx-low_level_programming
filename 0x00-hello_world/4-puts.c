@@ -1,10 +1,11 @@
 #include <stdio.h>
-
-int main()
+/*sheldon
+ */
+void main()
 {
-    char a[]="saravan";
-    char b[]="hajsof";
-    puts(a);
-    puts(b);
-    return 0;
+char a[]="saravan";
+char b[]="hajsof";
+puts(a);
+puts(b);
+return 0;
 }
