@@ -1,9 +1,8 @@
 #include <stdio.h>
-<<<<<<< HEAD
-=======
+
 /*sheldon
  * 
- * */
+ */
 
 #include <stdio.h>
 
