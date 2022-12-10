@@ -10,6 +10,9 @@
  * Return: Always 0 (Success)
  *
  */
+/**
+ * int main (void) this execute the strings
+ */
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
