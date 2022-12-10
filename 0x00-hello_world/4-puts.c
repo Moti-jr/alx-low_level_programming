@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*sheldon
  */
-void main()
+int main(void)
 {
 char a[]="saravan";
 char b[]="hajsof";
