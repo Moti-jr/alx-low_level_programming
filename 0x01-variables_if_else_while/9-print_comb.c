@@ -4,24 +4,22 @@
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of single-digit numbers.
+ * mainiiiii inations of single-digit numbers.
  *
  * Return: Always 0.
  */
 int main(void)
 {
-	int num;
-
-	for (num = 0; num <= 9; num++)
+	int n;
+	for (n=30; n<40; n++)
 	{
-		putchar((num % 10) + '0');
-			if (num == 9)
-				continue;		
-		putchar(',');
-		putchar(' ');
+		putchar(n);
+		if (n!=39)
+		{
+			putchar(',')
+				
+		}
 	}
-
 	putchar('\n');
-
 	return (0);
 }
