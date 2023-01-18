@@ -22,10 +22,5 @@ void print_dog(struct dog *d)
 			printf("Owner: (nil)\n");
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
 
