@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * _isupper - return 1 if parameter is uppercase
  * @c: the parameter to check

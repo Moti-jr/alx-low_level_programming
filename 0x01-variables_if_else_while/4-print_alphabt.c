@@ -1,7 +1,3 @@
-/*
- * File: 4-print_alphabt.c
- */
-
 #include <stdio.h>
 
 /**

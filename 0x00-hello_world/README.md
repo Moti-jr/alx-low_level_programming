@@ -1,1 +1,1 @@
-To run the Betty linter just with command
+This is a read me file

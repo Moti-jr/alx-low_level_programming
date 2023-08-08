@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_array - prints n element of an array of integers
- * Owned by Bwave
+ * Owned by chemase
  * @a: int to check
  * @n: int to check
  * Return: 0 is success

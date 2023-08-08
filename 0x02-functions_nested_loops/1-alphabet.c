@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- * author :sheldon
  *print_alphabet - This program prints the english alphabets a-z
  * Return: void
  */
